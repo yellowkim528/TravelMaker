@@ -25,4 +25,4 @@
 ![image](https://github.com/kjheve/TravelMaker/assets/120702629/31a8238e-0f61-49b3-a74f-8eb56e529c9a)
 
 # 8. 시연 영상
-[![image](https://github.com/kjheve/TravelMaker/assets/120702629/5519c29a-e7cf-4123-a12c-b038c406e2c0)](https://youtu.be/OhOIxsu3Cdk?si=7gg27jVLnSpWeDUH)
+[![image](https://github.com/kjheve/TravelMaker/assets/120702629/5519c29a-e7cf-4123-a12c-b038c406e2c0)](https://youtu.be/VJQ7dTl30Ww)
